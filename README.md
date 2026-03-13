@@ -1,5 +1,7 @@
 # Agentic Notes (Obsidian Vault)
 
+> **Default destination:** New notes/articles/presentation drafts should be added here by default.
+
 Personal Obsidian-first markdown vault for:
 - daily notes
 - article drafts
